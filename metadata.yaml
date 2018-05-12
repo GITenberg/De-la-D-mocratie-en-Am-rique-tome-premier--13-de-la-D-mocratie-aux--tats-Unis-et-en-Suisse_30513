@@ -1,0 +1,36 @@
+_repo: De-la-D-mocratie-en-Am-rique-tome-premier--13-de-la-D-mocratie-aux--tats-Unis-et-en-Suisse_30513
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tocqueville, Alexis de
+    aliases:
+    - De Tocqueville, Alexis
+    - Tocqueville, Alexis Charles Henri Maurice Clerel de
+    - Tocqueville, Alexis Charles Henri Maurice Clérel de
+    - Toqueville, Alexis de
+    birthdate: 1805
+    deathdate: 1859
+    gutenberg_agent_id: '424'
+    url: http://www.gutenberg.org/2009/agents/424
+    wikipedia: http://en.wikipedia.org/wiki/Alexis_de_Tocqueville
+description: ''
+gutenberg_bookshelf: FR Politique
+gutenberg_issued: '2009-11-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30513'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'JK'
+- !lcsh 'United States -- Politics and government'
+- !lcsh 'Democracy -- United States'
+- !lcsh 'United States -- Social conditions'
+title: "De la Démocratie en Amérique, tome premier\r\net augmentée d'un Avertissement\
+  \ et d'un Examen comparatif\r\nde la Démocratie aux États-Unis et en Suisse"
+url: http://www.gutenberg.org/ebooks/30513
